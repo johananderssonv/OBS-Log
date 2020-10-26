@@ -1,0 +1,213 @@
+00:01:15.407: CoInitializeEx succeeded: 0x00000001
+00:01:15.408: CPU Name: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+00:01:15.408: CPU Speed: 3600MHz
+00:01:15.408: Physical Cores: 8, Logical Cores: 16
+00:01:15.408: Physical Memory: 16299MB Total, 4027MB Free
+00:01:15.408: Windows Version: 10.0 Build 18363 (release: 1909; revision: 1139; 64-bit)
+00:01:15.408: Running as administrator: false
+00:01:15.408: Aero is Enabled (Aero is always on for windows 8 and above)
+00:01:15.408: Windows 10 Gaming Features:
+00:01:15.408: 	Game DVR: On
+00:01:15.413: Sec. Software Status:
+00:01:15.416: 	Windows Defender Antivirus: disabled (AV)
+00:01:15.417: 	Windows Firewall: enabled (FW)
+00:01:15.420: Current Date/Time: 2020-10-24, 00:01:15
+00:01:15.420: Browser Hardware Acceleration: true
+00:01:15.420: Portable mode: false
+00:01:15.782: OBS 25.0.1 (64-bit, windows)
+00:01:15.782: ---------------------------------
+00:01:15.805: ---------------------------------
+00:01:15.805: audio settings reset:
+00:01:15.805: 	samples per sec: 44100
+00:01:15.805: 	speakers:        2
+00:01:15.809: ---------------------------------
+00:01:15.809: Initializing D3D11...
+00:01:15.809: Available Video Adapters: 
+00:01:15.812: 	Adapter 0: NVIDIA GeForce GTX 1060 6GB
+00:01:15.812: 	  Dedicated VRAM: 2051014656
+00:01:15.812: 	  Shared VRAM:    4250451968
+00:01:15.813: 	  Driver Version: 27.21.14.5638
+00:01:15.813: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true, refresh=144, name=Acer XF240H
+00:01:15.813: 	  output 1: pos={-1920, 0}, size={1920, 1080}, attached=true, refresh=60, name=HP P221
+00:01:15.816: Loading up D3D11 on adapter NVIDIA GeForce GTX 1060 6GB (0)
+00:01:15.874: D3D11 loaded successfully, feature level used: b000
+00:01:15.874: DXGI increase maximum frame latency success
+00:01:15.875: D3D11 GPU priority setup failed (not admin?)
+00:01:16.304: ---------------------------------
+00:01:16.304: video settings reset:
+00:01:16.304: 	base resolution:   1920x1080
+00:01:16.304: 	output resolution: 1920x1080
+00:01:16.304: 	downscale filter:  Bicubic
+00:01:16.304: 	fps:               60/1
+00:01:16.304: 	format:            NV12
+00:01:16.304: 	YUV mode:          601/Partial
+00:01:16.304: NV12 texture support enabled
+00:01:16.305: Audio monitoring device:
+00:01:16.305: 	name: Default
+00:01:16.305: 	id: default
+00:01:16.305: ---------------------------------
+00:01:16.396: [CoreAudio encoder]: Adding CoreAudio AAC encoder
+00:01:16.401: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+00:01:16.491: [AMF] Unable to load 'amfrt64.dll', error code 126.
+00:01:16.515: [AMF] AMF Test failed due to one or more errors.
+00:01:16.516: Failed to initialize module 'enc-amf.dll'
+00:01:16.638: [obs-browser]: Version 2.8.6
+00:01:16.685: NVENC supported
+00:01:16.839: Couldn't find VLC installation, VLC video source disabled
+00:01:16.859: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+00:01:16.859: No blackmagic support
+00:01:16.872: ---------------------------------
+00:01:16.872:   Loaded Modules:
+00:01:16.872:     win-wasapi.dll
+00:01:16.872:     win-mf.dll
+00:01:16.872:     win-dshow.dll
+00:01:16.872:     win-decklink.dll
+00:01:16.872:     win-capture.dll
+00:01:16.872:     vlc-video.dll
+00:01:16.872:     text-freetype2.dll
+00:01:16.872:     rtmp-services.dll
+00:01:16.872:     obs-x264.dll
+00:01:16.872:     obs-vst.dll
+00:01:16.872:     obs-transitions.dll
+00:01:16.872:     obs-text.dll
+00:01:16.872:     obs-qsv11.dll
+00:01:16.872:     obs-outputs.dll
+00:01:16.872:     obs-filters.dll
+00:01:16.872:     obs-ffmpeg.dll
+00:01:16.872:     obs-browser.dll
+00:01:16.872:     image-source.dll
+00:01:16.872:     frontend-tools.dll
+00:01:16.872:     enc-amf.dll
+00:01:16.872:     decklink-ouput-ui.dll
+00:01:16.872:     coreaudio-encoder.dll
+00:01:16.872: ---------------------------------
+00:01:16.872: ==== Startup complete ===============================================
+00:01:16.912: All scene data cleared
+00:01:16.912: ------------------------------------------------
+00:01:16.939: WASAPI: Device 'Speakers (High Definition Audio Device)' [48000 Hz] initialized
+00:01:16.940: [WASAPISource::WASAPISource] Device '{0.0.1.00000000}.{a551a839-ab4d-4716-97a4-a03515f64b6f}' not found.  Waiting for device
+00:01:16.963: WASAPI: Device 'Microphone (Razer Seiren X)' [44100 Hz] initialized
+00:01:17.001: adding 46 milliseconds of audio buffering, total audio buffering is now 46 milliseconds (source: Audio Input Capture)
+00:01:17.001: 
+00:01:17.985: [Media Source 'gif']: settings:
+00:01:17.985: 	input:                   C:/Users/johan/Desktop/giphy.gif
+00:01:17.985: 	input_format:            (null)
+00:01:17.985: 	speed:                   100
+00:01:17.985: 	is_looping:              yes
+00:01:17.985: 	is_hw_decoding:          no
+00:01:17.985: 	is_clear_on_media_end:   yes
+00:01:17.985: 	restart_on_activate:     yes
+00:01:17.985: 	close_when_inactive:     no
+00:01:17.985: [Media Source 'Media Source']: settings:
+00:01:17.985: 	input:                   
+00:01:17.985: 	input_format:            (null)
+00:01:17.985: 	speed:                   100
+00:01:17.985: 	is_looping:              no
+00:01:17.985: 	is_hw_decoding:          no
+00:01:17.985: 	is_clear_on_media_end:   yes
+00:01:17.985: 	restart_on_activate:     yes
+00:01:17.985: 	close_when_inactive:     no
+00:01:17.996: Failed to open file 'C:/Users/johan/Desktop/t/Webcam/Webcam 4-3.png': No such file or directory00:01:17.996: MP: Failed to open media: 'C:/Users/johan/Desktop/giphy.gif'
+
+00:01:17.996: gs_image_file_init_internal: Failed to load file 'C:/Users/johan/Desktop/t/Webcam/Webcam 4-3.png'
+00:01:17.996: [image_source: 'Image'] failed to load texture 'C:/Users/johan/Desktop/t/Webcam/Webcam 4-3.png'
+00:01:17.998: Failed to open file 'C:/Users/johan/Desktop/t/General/Background.png': No such file or directory
+00:01:17.998: gs_image_file_init_internal: Failed to load file 'C:/Users/johan/Desktop/t/General/Background.png'
+00:01:17.998: [image_source: 'Image 2'] failed to load texture 'C:/Users/johan/Desktop/t/General/Background.png'
+00:01:17.998: Failed to open file 'C:/Users/johan/Desktop/t/Webcam/Webcam 4-3.png': No such file or directory
+00:01:17.998: gs_image_file_init_internal: Failed to load file 'C:/Users/johan/Desktop/t/Webcam/Webcam 4-3.png'
+00:01:17.998: [image_source: 'Image 3'] failed to load texture 'C:/Users/johan/Desktop/t/Webcam/Webcam 4-3.png'
+00:01:17.999: Failed to open file 'C:/Users/johan/Desktop/216-2160905_picture-league-of-legends-kayn-png-transparent-png.png': No such file or directory
+00:01:17.999: gs_image_file_init_internal: Failed to load file 'C:/Users/johan/Desktop/216-2160905_picture-league-of-legends-kayn-png-transparent-png.png'
+00:01:17.999: [image_source: '216-2160905_picture-league-of-legends-kayn-png-transparent-png.png'] failed to load texture 'C:/Users/johan/Desktop/216-2160905_picture-league-of-legends-kayn-png-transparent-png.png'
+00:01:17.999: Failed to open file 'C:/Users/johan/Desktop/7ad781666e10031bfd48222054e49ac5.png': No such file or directory
+00:01:17.999: gs_image_file_init_internal: Failed to load file 'C:/Users/johan/Desktop/7ad781666e10031bfd48222054e49ac5.png'
+00:01:17.999: [image_source: '7ad781666e10031bfd48222054e49ac5.png'] failed to load texture 'C:/Users/johan/Desktop/7ad781666e10031bfd48222054e49ac5.png'
+00:01:18.007: Failed to open file 'C:/Users/johan/Desktop/My Panel.png': No such file or directory
+00:01:18.007: gs_image_file_init_internal: Failed to load file 'C:/Users/johan/Desktop/My Panel.png'
+00:01:18.007: [image_source: 'My Panel.png'] failed to load texture 'C:/Users/johan/Desktop/My Panel.png'
+00:01:18.057: Switched to scene 'Scene 4'
+00:01:18.058: [game-capture: 'Game Capture 5'] attempting to hook process: ModernWarfare.exe
+00:01:18.061: [game-capture: 'Game Capture 5'] using helper (compatibility hook)
+00:01:18.091: [game-capture: 'Game Capture 5'] hook not loaded yet, retrying..
+00:01:18.123: ------------------------------------------------
+00:01:18.123: Loaded scenes:
+00:01:18.123: - scene 'ingame':
+00:01:18.123:     - source: 'Image 2' (image_source)
+00:01:18.123:     - source: 'Game Capture' (game_capture)
+00:01:18.123:     - source: 'Game Capture 2' (game_capture)
+00:01:18.123:     - source: 'Image' (image_source)
+00:01:18.123:     - source: 'launcher' (game_capture)
+00:01:18.123:     - source: 'Video Capture Device' (dshow_input)
+00:01:18.123:     - source: 'Image 3' (image_source)
+00:01:18.124:     - source: 'Display Capture' (monitor_capture)
+00:01:18.124:     - source: 'My Panel.png' (image_source)
+00:01:18.124:     - source: 'Text (GDI+)' (text_gdiplus_v2)
+00:01:18.124:         - filter: 'Scroll' (scroll_filter)
+00:01:18.124: - scene 'Scene 2':
+00:01:18.124:     - source: 'Image 2' (image_source)
+00:01:18.124:     - source: '7ad781666e10031bfd48222054e49ac5.png' (image_source)
+00:01:18.124:     - source: 'Video Capture Device' (dshow_input)
+00:01:18.124:     - source: 'Game Capture' (game_capture)
+00:01:18.124:     - source: 'Image 3' (image_source)
+00:01:18.124:     - source: 'Display Capture' (monitor_capture)
+00:01:18.124:     - source: 'Image' (image_source)
+00:01:18.124:     - source: 'Media Source' (ffmpeg_source)
+00:01:18.124:     - source: 'gif' (ffmpeg_source)
+00:01:18.124:     - source: '216-2160905_picture-league-of-legends-kayn-png-transparent-png.png' (image_source)
+00:01:18.124:     - source: 'Image 4' (image_source)
+00:01:18.124:     - source: 'My Panel.png' (image_source)
+00:01:18.124:     - source: 'Text (GDI+)' (text_gdiplus_v2)
+00:01:18.124:         - filter: 'Scroll' (scroll_filter)
+00:01:18.124: - scene 'Scene 3':
+00:01:18.124:     - source: 'Game Capture 3' (game_capture)
+00:01:18.124:     - source: 'Game Capture 4' (game_capture)
+00:01:18.124:     - source: 'Display Capture 2' (monitor_capture)
+00:01:18.124: - scene 'Scene 4':
+00:01:18.124:     - source: 'Game Capture 5' (game_capture)
+00:01:18.124:     - source: 'Audio Input Capture' (wasapi_input_capture)
+00:01:18.124: ------------------------------------------------
+00:01:18.177: Video Capture Device: data.GetDevice failed
+00:01:18.177: Video Capture Device: Video configuration failed
+00:01:20.074: [game-capture: 'Game Capture 5'] attempting to hook process: ModernWarfare.exe
+00:01:20.114: [game-capture: 'Game Capture 5'] We're DXGI1.4 boys!
+00:01:20.114: [game-capture: 'Game Capture 5'] Buffer count: 2, swap effect: 4
+00:01:20.208: [game-capture: 'Game Capture 5'] d3d12 shared texture capture successful
+00:01:20.222: [game-capture: 'Game Capture 5'] shared texture capture successful
+00:01:55.600: [jim-nvenc: 'simple_h264_recording'] settings:
+00:01:55.600: 	rate_control: CQP
+00:01:55.600: 	bitrate:      0
+00:01:55.600: 	cqp:          16
+00:01:55.600: 	keyint:       250
+00:01:55.600: 	preset:       hq
+00:01:55.600: 	profile:      high
+00:01:55.600: 	width:        1920
+00:01:55.600: 	height:       1080
+00:01:55.600: 	2-pass:       false
+00:01:55.600: 	b-frames:     2
+00:01:55.600: 	lookahead:    false
+00:01:55.600: 	psycho_aq:    true
+00:01:55.600: 
+00:01:55.616: [CoreAudio AAC: 'simple_aac_recording']: settings:
+00:01:55.616: 	mode:          AAC
+00:01:55.616: 	bitrate:       192
+00:01:55.616: 	sample rate:   44100
+00:01:55.616: 	cbr:           on
+00:01:55.616: 	output buffer: 1536
+00:01:55.649: ==== Recording Start ===============================================
+00:01:55.649: [ffmpeg muxer: 'simple_file_output'] Writing file 'D:/Users/Johan/Videos/2020-10-24 00-01-55.mov'...
+00:23:43.570: [ffmpeg muxer: 'simple_file_output'] Output of file 'D:/Users/Johan/Videos/2020-10-24 00-01-55.mov' stopped
+00:23:43.570: Output 'simple_file_output': stopping
+00:23:43.570: Output 'simple_file_output': Total frames output: 78441
+00:23:43.570: Output 'simple_file_output': Total drawn frames: 62866 (78475 attempted)
+00:23:43.570: Output 'simple_file_output': Number of lagged frames due to rendering lag/stalls: 15609 (19.9%)
+00:23:43.571: Video stopped, number of skipped frames due to encoding lag: 68573/78471 (87.4%)
+00:23:43.571: ==== Recording Stop ================================================
+00:34:01.655: [game-capture: 'Game Capture 5'] capture window no longer exists, terminating capture
+00:34:01.656: [game-capture: 'Game Capture 5'] capture stopped
+01:58:30.791: ==== Shutting down ==================================================
+01:58:30.848: Switched to scene '(null)'
+01:58:30.876: WASAPI: Device 'Microphone (Razer Seiren X)' Terminated
+01:58:30.884: WASAPI: Device 'Speakers (High Definition Audio Device)' Terminated
+01:58:30.893: All scene data cleared
+01:58:30.893: ------------------------------------------------
